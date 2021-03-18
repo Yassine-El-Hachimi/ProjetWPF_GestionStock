@@ -1,0 +1,156 @@
+﻿<Window x:Class="Navigation_Drawer_App.ModefierPers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Navigation_Drawer_App"
+        mc:Ignorable="d"
+        Title="ModefierPers" WindowStartupLocation="CenterScreen" Height="473.097" Width="800" WindowStyle="None" ResizeMode="NoResize">
+    <Window.Resources>
+        <ImageBrush x:Key="CloseBtn_MouseOver" ImageSource="Assets/closeBtn_MouseOver.png"/>
+        <Style x:Key="Close_btn" TargetType="{x:Type Button}">
+
+            <Setter Property="Template">
+
+                <Setter.Value>
+
+                    <ControlTemplate TargetType="{x:Type Button}">
+
+                        <Border x:Name="button"
+                                BorderThickness="0"
+                                Background="{TemplateBinding Background}"
+                                SnapsToDevicePixels="True">
+
+                        </Border>
+
+                        <ControlTemplate.Triggers>
+
+                            <Trigger Property="IsMouseOver"
+                                     Value="True">
+
+                                <Setter Property="Background"
+                                        TargetName="button"
+                                        Value="{StaticResource CloseBtn_MouseOver}"/>
+
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+
+                </Setter.Value>
+
+            </Setter>
+
+        </Style>
+
+        <!-- BTNS Style-->
+        <Style TargetType="Button" x:Key="GelButton">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="RootElement">
+                            <!-- drop shadow - needs to be blurred for correct effect -->
+                            <Rectangle Margin="1,1,0,0" RadiusX="6" RadiusY="6">
+                                <Rectangle.BitmapEffect>
+                                    <BlurBitmapEffect Radius="3" />
+                                </Rectangle.BitmapEffect>
+                            </Rectangle>
+                            <Grid x:Name="mainButton"
+                                Margin="0,0,1,1"
+                                RenderTransformOrigin="0.5,0.5">
+                                <Grid.RenderTransform>
+                                    <TransformGroup>
+                                        <TranslateTransform X="0.0" Y="0.0"/>
+                                        <ScaleTransform ScaleX="1.0" ScaleY="1.0" />
+                                    </TransformGroup>
+                                </Grid.RenderTransform>
+                                <Rectangle x:Name="mainRect" Fill="{TemplateBinding Background}" RadiusX="6" RadiusY="6">
+                                </Rectangle>
+
+                                <!-- transparent rect -->
+                                <Rectangle x:Name="glowRect" Margin="1,1,1,1" RadiusX="5" RadiusY="5">
+                                </Rectangle>
+
+                                <ContentPresenter HorizontalAlignment="Center"
+                             Margin="4,0,4,0"
+                             Content="{TemplateBinding Content}"
+                             VerticalAlignment="Center" />
+
+                            </Grid>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="mainButton" Property="RenderTransform" >
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <TranslateTransform X="0.0" Y="0.0"/>
+                                            <ScaleTransform ScaleX="1.03" ScaleY="1.03" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Foreground" Value="#FF4788c8" />
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="mainButton" Property="RenderTransform" >
+                                    <Setter.Value>
+                                        <TransformGroup>
+                                            <TranslateTransform X="1" Y="1"/>
+                                            <ScaleTransform ScaleX="1.03" ScaleY="1.03" />
+                                        </TransformGroup>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+
+        <Grid Margin="1,-5,-1,5">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="R1CloseBtn"
+                        Grid.Column="1"
+                        BorderThickness="0"
+                        Style="{StaticResource Close_btn}" Click="CloseBtn_Click" Margin="55.4,10,10,53" Grid.ColumnSpan="2" Grid.RowSpan="2" RenderTransformOrigin="0.504,0.504">
+
+                <Button.Background>
+
+                    <ImageBrush ImageSource="Assets/closeBtn_defaultFFFF.png"/>
+
+                </Button.Background>
+
+            </Button>
+            <Label Content="Matricule :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="138,49.6,0,0" Width="176" Height="44" FontSize="20" FontWeight="Bold" Grid.Row="1" Grid.RowSpan="2"/>
+            <Label Content="Nom :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="138,38.6,0,0" Width="176" Height="44" FontSize="22" FontWeight="Bold" Grid.Row="2"/>
+            <Label Content="Prénom :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="138,87.6,0,0" Width="176" Height="44" FontSize="22" FontWeight="Bold" Grid.Row="2"/>
+            <Label Content="Profession :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="138,136.6,0,0" Width="176" Height="44" FontWeight="Bold" FontSize="22" Grid.Row="2"/>
+            <Label Content="Id Service :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="138,185.6,0,0" Width="176" Height="44" FontWeight="Bold" FontSize="22" Grid.Row="2"/>
+            <TextBox x:Name="txtMp" HorizontalAlignment="Left" Height="33" Margin="295,54.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontSize="16"  Grid.Row="1" Grid.RowSpan="2"/>
+            <TextBox x:Name="txtNp" HorizontalAlignment="Left" Height="33" Margin="295,38.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontSize="16"  Grid.Row="2"/>
+            <TextBox x:Name="txtPp" HorizontalAlignment="Left" Height="33" Margin="295,92.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontSize="16" Grid.Row="2"/>
+            <TextBox x:Name="txtPrf" HorizontalAlignment="Left" Height="33" Margin="295,141.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontSize="16" Grid.Row="2"/>
+            <TextBox x:Name="txtIds" HorizontalAlignment="Left" Height="33" Margin="295,190.6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" FontSize="16" Grid.Row="2"/>
+            <Button x:Name="btnSaveP" Content="Enregistrer" HorizontalAlignment="Left" Height="38" Margin="294,262.6,0,0" VerticalAlignment="Top" Width="330" FontWeight="Bold" FontSize="18" Click="BtnSaveP_Click" Grid.Row="2" Style="{StaticResource GelButton}" Background="#FF28A745" Foreground="White"/>
+            <Button x:Name="ClearData" Content="Clear" HorizontalAlignment="Left" Height="38" Margin="294,310.6,0,0" VerticalAlignment="Top" Width="330" FontSize="20" FontWeight="Bold" Click="Clear" Style="{StaticResource GelButton}" Background="#FFEDCD39" Foreground="White" Grid.Row="2"/>
+
+        </Grid>
+        <Label Content="Modefier Personnel" HorizontalAlignment="Left" Height="41" Margin="272,10,0,0" VerticalAlignment="Top" Width="272" FontFamily="Times New Roman" FontSize="30" FontWeight="Bold" FontStyle="Italic"/>
+
+    </Grid>
+</Window>

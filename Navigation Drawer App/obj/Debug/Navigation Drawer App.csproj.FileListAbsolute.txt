@@ -1,0 +1,130 @@
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\AjouterMat.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\AjouterMat.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CopyComplete
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\Navigation Drawer App\Navigation Drawer App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterMat.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterMat.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CopyComplete
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterPers.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierPers.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\PasserCommande.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterPers.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierPers.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\PasserCommande.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierMateriel.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierMateriel.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignColors.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Login.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Login.baml
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesign.dll
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_Content.g.cs
+C:\Users\toshiba\Desktop\okok\Navigation-Drawer-Sidebar-Menu-in-WPF\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\App.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\DevExpress.Data.v20.2.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesign.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignColors.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.Licensing.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\DevExpress.Data.v20.2.xml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignColors.pdb
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\Syncfusion.SfChart.WPF.xml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterMat.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterPers.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Charts.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierMateriel.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierPers.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\PasserCommande.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\App.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_Content.g.cs
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\App.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterMat.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\AjouterPers.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Charts.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\MainWindow.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierMateriel.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\ModefierPers.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\PasserCommande.baml
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CopyComplete
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+E:\ProjetWPF_GestionStock\Navigation Drawer App\bin\Debug\MaterialIcons.dll
+E:\ProjetWPF_GestionStock\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
